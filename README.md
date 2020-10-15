@@ -36,7 +36,7 @@ Here we try to provide best available free to use educational materials related 
 <br />
 <p align="center">
   <a href="https://github.com/CH-ND-N/Free-Programming/edit/main">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    
   </a>
 
   <h3 align="center"></h3>
@@ -51,7 +51,7 @@ Here we try to provide best available free to use educational materials related 
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
- ### Be the first to do it!
+Be the first to do contribute !!
 
 
 
@@ -59,7 +59,7 @@ Here we try to provide best available free to use educational materials related 
 <!-- ABOUT THE PROJECT -->
 
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
+`CH-ND-N`, `Free-Programming`, `chandan.309kr@gmail.com`
 
 
 ### Built With
